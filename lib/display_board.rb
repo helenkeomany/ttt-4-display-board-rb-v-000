@@ -2,7 +2,7 @@
 # out the current state.
 
 
-board = [" "," "," "," "," "," "," "," "," "]
+board = ["o","o","o","o","o","o","o","o","o"]
 
 def display_board(board)
   # do something with the board
